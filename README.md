@@ -1,5 +1,5 @@
 # UnpackMusic
-Unpack Music from Dark Souls 2: Scolar of the First Sin
+Unpack Music from Dark Souls 2: Scholar of the First Sin
 
 # Usage:
 1. install FSB5 and argparse if needed <br>
